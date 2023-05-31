@@ -29,7 +29,8 @@ export const wordsList = [
   "Mogę przerzucić?", 
   "Korona Bretonni dowie się o tym", 
   "Ja się na to nie pisałem",
-  "ekchart sam sie pogrąża",
-  "ja nie będę pił tych szczyn",
-  "bardziej obrażanie bogów",
+  "Ekchart sam sie pogrąża",
+  "Ja nie będę pił tych szczyn",
+  "Obrażanie bogów",
+  "Ja panu nie przerywałem",
 ];
