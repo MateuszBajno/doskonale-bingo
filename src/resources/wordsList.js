@@ -31,5 +31,5 @@ export const wordsList = [
   "Ja się na to nie pisałem",
   "ekchart sam sie pogrąża",
   "ja nie będę pił tych szczyn",
-  "bardziej obrażanie bogów"
+  "bardziej obrażanie bogów",
 ];
