@@ -40,7 +40,7 @@ function App() {
           ...square,
           isChecked: true,
           isWinningBox: false,
-          value: "(BINGO)\nQuazars nie do pokonania",
+          value: "(BINGO)\nDosko robi offtop",
         };
       const index = Math.floor(Math.random() * wordsBank.length);
       const word = wordsBank[index];
