@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/doskonale-bingo/static/css/main.7d49ee3e.css",
-    "main.js": "/doskonale-bingo/static/js/main.a861bb5f.js",
+    "main.js": "/doskonale-bingo/static/js/main.da569a13.js",
     "static/js/787.f1e5db57.chunk.js": "/doskonale-bingo/static/js/787.f1e5db57.chunk.js",
     "static/media/victory.mp3": "/doskonale-bingo/static/media/victory.22d68c632662457fb38a.mp3",
     "static/media/trudne-wylosowało.mp3": "/doskonale-bingo/static/media/trudne-wylosowało.0b129b35bf7937f919c4.mp3",
     "static/media/losu-losu.mp3": "/doskonale-bingo/static/media/losu-losu.9f6e60e56cc14570a325.mp3",
     "index.html": "/doskonale-bingo/index.html",
     "main.7d49ee3e.css.map": "/doskonale-bingo/static/css/main.7d49ee3e.css.map",
-    "main.a861bb5f.js.map": "/doskonale-bingo/static/js/main.a861bb5f.js.map",
+    "main.da569a13.js.map": "/doskonale-bingo/static/js/main.da569a13.js.map",
     "787.f1e5db57.chunk.js.map": "/doskonale-bingo/static/js/787.f1e5db57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d49ee3e.css",
-    "static/js/main.a861bb5f.js"
+    "static/js/main.da569a13.js"
   ]
 }
