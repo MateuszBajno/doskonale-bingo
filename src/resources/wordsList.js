@@ -1,5 +1,5 @@
 export const wordsList = [
-  "do chuja wafla", 
+  "Do chuja wafla", 
   "Wyparcie", 
   "Interwencja GM`a", 
   "Szlachetka", 
