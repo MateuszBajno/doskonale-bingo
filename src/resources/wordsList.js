@@ -32,4 +32,9 @@ export const wordsList = [
   "Ja nie będę pił tych szczyn",
   "Obrażanie bogów",
   "Ja panu nie przerywałem",
+  "Wspominanie drogi wojny",
+  "Narzekanie na krytyki",
+  "Korzystanie z wiedzy gracza",
+  "Idziemy na pałę",
+  "RNG ratuje dzień"
 ];
